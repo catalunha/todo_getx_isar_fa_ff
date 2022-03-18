@@ -17,7 +17,7 @@ dependencies:
   get: ^4.6.1
   # LocalStorage
   isar: 2.2.1
-  isar_flutter_libs: any
+  isar_flutter_libs: 2.2.1
   # Firebase (Authentication)
   firebase_auth: ^3.3.9
   firebase_core: ^1.13.1  
