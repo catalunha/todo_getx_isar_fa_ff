@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586273731909",
+    "project_id": "todo-getx-isar-fa-ff",
+    "storage_bucket": "todo-getx-isar-fa-ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586273731909:android:287ded1fb9804a63e5fa2c",
+        "android_client_info": {
+          "package_name": "education.brintec.todo_getx_isar_fa_ff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586273731909-u9udvir1hjlb498bnrsm72774gppfs5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "education.brintec.todo_getx_isar_fa_ff",
+            "certificate_hash": "031b8255ea1c3259de40935fceda93c500792d28"
+          }
+        },
+        {
+          "client_id": "586273731909-ntgk26r6h32sgd3v4lreqv0pf8vtibgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_TNV2XxIJmyUwj82BQnBQZzN3-nxC3pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586273731909-ntgk26r6h32sgd3v4lreqv0pf8vtibgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
