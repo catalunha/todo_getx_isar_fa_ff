@@ -1,4 +1,4 @@
-# ToDo
+# ToDo04
 Pra muitos é mais um ToDo. Pra mim é uma conquista e um compartilhamento.
 
 Abordei o meu entendimento de V-VM-M, [Estrutura](#estrutura), e aceito sugestões.
@@ -7,9 +7,26 @@ Construi um fluxo de authenticação bem interessante e genérico como visto no 
 
 As contribuições/fontes para este ToDo estão nesta [minha historia](https://medium.com/@catalunha.mj/deploy-app-flutter-android-para-flutter-web-no-firebase-hosting-5d39d5e48c5) no Medium.
 
+# ChangeLog
+## [1.0.0]
+Este ToDo é uma versão atualizada do Todo01 e todo02 tentando colocar o isar. mas deram alguns erros e vou parar o projeto.
+Contudo o desenvolvimento do login dele ficou muito bom e vou atualizar no todo02
+
+
+# Firebase
+https://console.firebase.google.com/u/0/project/todo-getx-isar-fa-ff/overview
+- [x] Aplicativo
+   - [x] Android
+   - [] Web
+- [x] Authentication
+   - [x] Emai/Senha
+   - [x] Google
+- [x] Firestore
+- [ ] Hosting
+- [ ] Storage
+
+
 # Estrutura
-
-
 Analise e adaptação, a View - ViewModel - Model, destes textos:
 * http://kyubid.com/blog/mvvm-android-tutorial-01-mvc-vs-mvp-vs-mvvm/
 * https://pub.dev/packages/flutter_clean_architecture
