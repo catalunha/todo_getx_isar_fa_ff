@@ -40,17 +40,17 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: '...',
-    appId: '1:586273731909:android:287ded1fb9804a63e5fa2c',
-    messagingSenderId: '586273731909',
+    appId: '1::android:',
+    messagingSenderId: '',
     projectId: 'todo-getx-isar-fa-ff',
     authDomain: 'todo-getx-isar-fa-ff.firebaseapp.com',
     storageBucket: 'todo-getx-isar-fa-ff.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAJ6D-BsMLE3f-hx4FgwhZL7xDy8oyYHRw',
-    appId: '1:586273731909:android:287ded1fb9804a63e5fa2c',
-    messagingSenderId: '586273731909',
+    apiKey: '--',
+    appId: '1::android:',
+    messagingSenderId: '',
     projectId: 'todo-getx-isar-fa-ff',
     storageBucket: 'todo-getx-isar-fa-ff.appspot.com',
   );
